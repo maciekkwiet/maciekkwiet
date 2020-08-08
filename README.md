@@ -29,11 +29,19 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+### Connect with me:
+
+[<img align="left" alt="Maciej Kwietniewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Maciej Kwietniewski | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+<br />
 <br />
 
 ---
 
-<p align="center"><img alt="Maciek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maciekkwiet&show_icons=true&hide_border=true&hide=stars,issues&theme=dark" /> </p>
+<!-- <p align="center"><img alt="Maciek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maciekkwiet&show_icons=true&hide_border=true&hide=stars,issues&theme=dark" /> </p> -->
 
 [linkedin]: https://www.linkedin.com/in/maciej-kwietniewski-2240b1168/
 [gmail]: mailto:maciek.kwiet36@gmail.com?subject=GitHub🚀
