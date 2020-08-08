@@ -29,7 +29,7 @@
 <br />
 <br />
 
-<img align="left" alt="Maciek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Maciek&show_icons=true&hide_border=true" />
+<img align="left" alt="Maciek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maciekkwiet&show_icons=true&hide_border=true&hide=stars,issues" />
 
 ---
 
