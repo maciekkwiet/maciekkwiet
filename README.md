@@ -10,6 +10,10 @@
 
 [<img align="left" alt="Maciej Kwietniewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[<img align="left" alt="Maciej Kwietniewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkedin]
+
+<a href="mailto:maciek.kwiet36@gmail.com?subject=[GitHub]%20🚀"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+
 <br />
 
 ### Languages and Tools:
