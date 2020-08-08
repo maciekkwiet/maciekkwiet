@@ -36,10 +36,10 @@
 
 [<img align="left" alt="Maciej Kwietniewski | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-<br />
+<!-- <br />
 <br />
 
----
+--- -->
 
 <!-- <p align="center"><img alt="Maciek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maciekkwiet&show_icons=true&hide_border=true&hide=stars,issues&theme=dark" /> </p> -->
 
