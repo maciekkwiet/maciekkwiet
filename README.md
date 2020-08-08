@@ -10,7 +10,7 @@
 
 [<img align="left" alt="Maciej Kwietniewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="Maciej Kwietniewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][linkedin]
+[<img align="left" alt="Maciej Kwietniewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <a href="mailto:maciek.kwiet36@gmail.com?subject=[GitHub]%20🚀"><img align="left" alt="Maciej Kwietniewski | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
 
@@ -38,3 +38,5 @@
 ---
 
 [linkedin]: https://www.linkedin.com/in/maciej-kwietniewski-2240b1168/
+
+[gmail]: mailto:maciek.kwiet36@gmail.com?subject=[GitHub]%20🚀
