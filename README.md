@@ -37,8 +37,7 @@
 
 ---
 
-<p align="center">
-<img align="left" alt="Maciek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maciekkwiet&show_icons=true&hide_border=true&hide=stars,issues&theme=dark" /> </p>
+<p align="center"><img alt="Maciek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maciekkwiet&show_icons=true&hide_border=true&hide=stars,issues&theme=dark" /> </p>
 
 [linkedin]: https://www.linkedin.com/in/maciej-kwietniewski-2240b1168/
 
