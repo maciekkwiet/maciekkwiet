@@ -12,8 +12,6 @@
 
 [<img align="left" alt="Maciej Kwietniewski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-<a href="mailto:maciek.kwiet36@gmail.com?subject=[GitHub]%20🚀"><img align="left" alt="Maciej Kwietniewski | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
-
 <br />
 
 ### Languages and Tools:
@@ -32,6 +30,8 @@
 
 <br />
 <br />
+
+---
 
 <img align="left" alt="Maciek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maciekkwiet&show_icons=true&hide_border=true&hide=stars,issues&theme=dark" />
 
