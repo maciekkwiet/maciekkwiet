@@ -2,7 +2,7 @@
 
 - 🔭 I’m a computer science student(external studies)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Start professional job in web development
+- 🥅 2020 Goals: To increase the knowledge in web development
 - ⚡ I love speedway, volleyball and F1
 
 ### Languages and Tools:
