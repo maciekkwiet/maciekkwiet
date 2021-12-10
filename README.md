@@ -1,7 +1,7 @@
 ### Hi there, I'm Maciek 👋
 
 - 🔭 I’m a computer science student(external studies)
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2022 Goals: To increase the knowledge in web development and project management
 - ⚡ I love speedway, volleyball and F1
 
